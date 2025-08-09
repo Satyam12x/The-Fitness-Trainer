@@ -1,3 +1,5 @@
+//here is the script of this website
+
 const certificateData = {
   cpt: {
     image:
