@@ -227,7 +227,7 @@ document.addEventListener("DOMContentLoaded", function () {
           // Remove active state from all nav links
           navLinks.forEach((link) => link.classList.remove("active"));
 
-          // Get the current section id and match its nav item
+          
           const id = entry.target.getAttribute("id");
           const activeLink = document.querySelector(`.nav-item[href="#${id}"]`);
           if (activeLink) {
