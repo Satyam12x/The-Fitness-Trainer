@@ -1,5 +1,3 @@
-
-
 const certificateData = {
   cpt: {
     image:
