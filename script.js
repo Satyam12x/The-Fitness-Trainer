@@ -1,5 +1,5 @@
 //here is the script of this website
-//all the data available here is static 
+
 const certificateData = {
   cpt: {
     image:
