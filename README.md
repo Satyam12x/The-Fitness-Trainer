@@ -60,3 +60,6 @@ It's perfect as a **landing page** for fitness businesses or as a practice proje
 1. Clone the repository:
    ```bash
    git clone https://github.com/SunilBaghel002/Fitness-website.git
+
+---
+Hello Everyone
